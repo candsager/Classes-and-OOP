@@ -1,5 +1,5 @@
 import CoinClass as c
-
+#import the NAME of the file, not the class
 
 # The main function.
 def main():
@@ -16,11 +16,6 @@ def main():
            
            # Display the side of the coin that is facing up.
            print('This side is up:', my_coin.get_sideup())
-
-           
-
-
-       
 
 # Call the main function.
 
